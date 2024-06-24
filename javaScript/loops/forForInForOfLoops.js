@@ -20,5 +20,3 @@ console.log('')
 for(x of fruits){
     console.log(x)
 }
-
-//while,do while
